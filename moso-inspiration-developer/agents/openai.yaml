@@ -1,0 +1,4 @@
+interface:
+  display_name: "MoSo Inspiration Developer"
+  short_description: "Develop fragile inspiration safely"
+  default_prompt: "Use $moso-inspiration-developer to preserve and ferment this raw idea without summarizing it too early."
